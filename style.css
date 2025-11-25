@@ -1,4 +1,4 @@
-h2{
+/* h2{
     color: green;
 }
 p{
@@ -24,4 +24,29 @@ div{
     border: 1px solid red;
 
 
+} */
+.jk1{
+    display: inline-block;
+       height: 200px;
+   width: 150px;
+    background-color: rgb(99, 240, 5);
+    border: 2px solid black;
+
 }
+
+
+
+.jk{
+
+   height: 500px;
+    width: 600px;
+   border: 2px solid black;
+
+}
+
+
+
+/* .jk2{
+    display:block;
+}  */
+
